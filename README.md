@@ -16,5 +16,9 @@ print('Nice to meet you')
 ##fav character
 ![markdown image]
 (Screen Shot 2022-02-10 at 3.50.47 pm)
+
+
+
+
 hehe
-welll apple issue solved?
+welll apple issue solved? no... what about now?
